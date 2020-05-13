@@ -1,0 +1,14 @@
+.todo-list-item .btn {
+    margin-right: 5px;
+    float:right;
+    width:35px ;
+}
+
+.done span {
+    text-decoration:line-through;
+}
+
+ .important span {
+    color:#0072ff;
+    font-weight:bold;
+}
